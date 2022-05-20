@@ -1,0 +1,194 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{
+	background-color: lightgoldenrodyellow;
+	margin: 1em;
+}
+
+.nav-links{
+	text-align: center;
+	padding: 1em;
+	
+}
+
+.nav-links a{
+	border-right: 4px solid black;
+	font-size: 1.5em;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.nav-links a:hover {
+  background-color: white;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+.Greetings{
+	text-align: center;
+	
+}
+
+.WaterfordGallery img{
+	width: 100%;
+	height:auto;
+	display:block;
+}
+
+.WaterfordGallery{
+	width: 31.3%;
+	float: left;
+	margin: 1%;
+	
+}
+
+.WaterfordGallery h2{
+	padding-top: 150px;
+	padding-left: 150px;
+	font-size: 50px;
+	text-decoration: underline
+}
+
+.Quote{
+   text-align: center;
+}
+
+.Quote q {
+	border: 2px solid black;
+	padding: 0.5em;
+}
+
+.AboutTitleBox{
+	background-image: url("../images/question mark 6.jpg");
+	margin: 1em;
+	height: 338px;
+}
+
+.AboutTitleBox h1{
+	color: white;
+	font-size: 100px;
+	padding-top: 180px;
+	padding-left: 10px;
+	
+}
+
+.AboutTextBox {
+	text-align: center;
+		
+}
+
+.OfficeImg img{
+	width: 100%;
+	height:auto;
+	display:block;
+}
+
+.OfficeImg{
+	width: 31.3%;
+	float: left;
+	margin: 1%;
+}
+
+.CourseDetailTitleBox{
+	background-image: url("../images/sportpattern.jpg");
+	background-color: darkred;
+	margin: 1em;
+	height: 338px;
+}
+
+.CourseDetailTitleBox h1{
+	color: white;
+	font-size: 100px;
+	padding-top: 180px;
+	padding-left: 10px;
+	
+}
+
+.ContactUs{
+	font-size: 35px;
+}
+
+.TopDescription{
+	text-align: center;
+	background-color: aquamarine;
+	margin:1em;
+	
+}
+
+.TopDescription button{
+	
+	margin-left: 350px;
+	margin-right: 350px;
+	
+}
+
+.TopDescription h1{
+	font-size:40px;
+}
+
+.jobs{
+	text-align: center;
+	font-size: 35px;
+	color: white;
+}
+
+.WaterfordCityTitleBox{
+	background-image: url("../images/WaterfordCityPattern.jpg");
+	background-color: blue;
+	margin: 1em;
+	height: 338px;
+}
+
+.WaterfordCityTitleBox h1{
+	color: white;
+	font-size: 100px;
+	padding-top: 180px;
+	padding-left: 10px;
+	
+}
+
+.HomeBody{
+	background: linear-gradient(#B3FFAB, #12FFF7);
+	background-color:lightseagreen;
+	background-size: 1920px 3000px;
+		
+}
+
+.ui.menu{
+	background: linear-gradient(#6DD5FA, #FFFFFF);
+	background-color:aqua;
+	
+}
+
+.AboutBody{
+	background: linear-gradient(#f64f59, #FBD786, #C6FFDD);
+	background-color:lightgoldenrodyellow;
+	background-size: 1920px 3500px;
+		
+}
+
+.CourseDetailBody{
+	background: linear-gradient(#b92b27, #1565C0);
+	background-color:lightcoral;
+	background-size: 1920px 3500px;
+	
+}
+
+.WaterfordCityBody{
+	background: linear-gradient(#9796f0, #fbc7d4);
+	background-color:ghostwhite;
+	background-size: 1920px 3500px;
+	
+}
+
+.ContactUsBody{
+	background: linear-gradient(#ec008c, #fc6767);
+	background-color:mediumvioletred;
+	background-size: 1920px 3500px;
+	
+	
+}
+
